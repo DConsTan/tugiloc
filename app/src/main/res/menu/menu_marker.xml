@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_marker_addMap"
+        android:icon="@drawable/ic_map"
+        android:title="Add Indoor Map" />
+
+    <item
+        android:id="@+id/menu_marker_addWiFi"
+        android:icon="@drawable/ic_wifi"
+        android:title="Add WiFi Sample"/>
+
+</menu>
