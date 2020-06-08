@@ -1,9 +1,10 @@
 # TUGILoc
-Indoor Localization using WiFi-RSSI and sensorfusion
+Indoor Localization for TU Graz buildings.
 
-## TODO
-- WiFi RSSI sampling
-- WiFi kNN classifier
-- sampling sensor values
-- activity monitoring
-- particle swarm localization
+## What it does
+The app uses WiFi-RSSI measurements for a rought position estimation. For further precision a particle filter - using compass-data and step-detector - is used.
+
+
+## Currently implemented IndoorMaps
+- Inffeldgasse 22/I
+
